@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll blog theme
 
 Simple and nice blog theme based on Inclusion framework.
@@ -262,3 +263,6 @@ Youc can find full changelog [HERE](https://github.com/website-templates/jekyll-
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
+=======
+# check
+>>>>>>> d098533b48760f8a82b7bbcb7551626695b99366
